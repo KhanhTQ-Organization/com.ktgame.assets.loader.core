@@ -1,0 +1,18 @@
+{
+    "name": "com.ktgame.assets.loader.core.editor",
+    "rootNamespace": "com.ktgame.assets.loader.core.editor",
+    "references": [
+        "GUID:caeb0a032b91c4db0a3ec4b762381f71"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
