@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/KhanhTQ-Organization/com.ktgame.assets.loader.core/compare/v1.0.1...v1.0.2) (2025-07-04)
+
+
+### Bug Fixes
+
+* scope ([4d658ac](https://github.com/KhanhTQ-Organization/com.ktgame.assets.loader.core/commit/4d658ac96d2fa7aa71a7528915fc41f068c95dd3))
+
 ## [1.0.1](https://github.com/KhanhTQ-hub/com.ktgame.assets.loader.core/compare/v1.0.0...v1.0.1) (2025-03-11)
 
 
